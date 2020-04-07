@@ -1,0 +1,57 @@
+7 7
+
+NoClue
+Clue 0 19
+Clue 0 9
+NoClue
+Clue 0 24
+Clue 0 12
+Clue 0 16
+
+Clue 4 0
+Puzzle
+Puzzle
+Clue 23 0
+Puzzle
+Puzzle
+Puzzle
+
+Clue 10 0
+Puzzle
+Puzzle
+Clue 13 18
+Puzzle
+Puzzle
+Puzzle
+
+Clue 24 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 0 21
+Clue 0 11
+
+NoClue
+Clue 0 9
+Clue 27 10
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+Clue 7 0
+Puzzle
+Puzzle
+Puzzle
+Clue 13 0
+Puzzle
+Puzzle
+
+Clue 23 0
+Puzzle
+Puzzle
+Puzzle
+Clue 5 0
+Puzzle
+Puzzle

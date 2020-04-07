@@ -1,0 +1,352 @@
+14 14
+
+NoClue
+Clue 0 28
+
+Clue 0 15
+
+Clue 0 4
+
+NoClue
+Clue 0 11
+
+Clue 0 17
+
+NoClue
+
+Clue 0 34
+
+Clue 0 12
+
+
+
+NoClue
+Clue 0 15
+
+Clue 0 6
+
+Clue 0 4
+
+
+
+Clue 16 0
+
+Puzzle
+
+Puzzle
+
+Puzzle
+Clue 14 0
+
+Puzzle
+
+Puzzle
+Clue 16 27
+
+Puzzle
+Puzzle
+Clue 7 0
+
+Puzzle
+Puzzle
+
+Puzzle
+
+
+Clue 7 0
+
+Puzzle
+Puzzle
+
+Puzzle
+Clue 18 11
+
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+Clue 6 10
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+
+
+Clue 10 0
+
+Puzzle
+Puzzle
+
+Clue 6 15
+
+Puzzle
+
+Puzzle
+Clue 28 0
+
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+NoClue
+
+
+Clue 25 0
+
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+Clue 16 8
+
+Puzzle
+
+Puzzle
+
+Clue 3 24
+
+Puzzle
+
+Puzzle
+
+Clue 0 7
+
+Clue 0 3
+
+
+NoClue
+
+Clue 7 0
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Clue 38 23
+
+Puzzle
+Puzzle
+Puzzle
+
+Puzzle
+Puzzle
+
+Puzzle
+
+Puzzle
+Puzzle
+
+
+NoClue
+NoClue
+Clue 10 6
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+NoClue
+Clue 4 24
+
+Puzzle
+Puzzle
+
+Clue 3 11
+
+Puzzle
+Puzzle
+
+NoClue
+Clue 3 3
+
+Puzzle
+
+Puzzle
+
+Clue 10 29
+
+Puzzle
+Puzzle
+
+Clue 16 0
+
+Puzzle
+
+Puzzle
+Clue 4 20
+
+Puzzle
+Puzzle
+
+NoClue
+
+Clue 3 0
+
+Puzzle
+
+Puzzle
+
+Clue 17 34
+
+Puzzle
+
+Puzzle
+Clue 0 35
+
+Clue 29 29
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+Clue 0 29
+
+NoClue
+
+
+
+Clue 38 0
+
+Puzzle
+
+Puzzle
+Puzzle
+
+Puzzle
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Clue 9 10
+
+Puzzle
+
+Puzzle
+
+Puzzle
+Clue 0 14
+
+
+
+NoClue
+NoClue
+Clue 17 19
+
+Puzzle
+Puzzle
+
+Clue 16 6
+
+Puzzle
+
+Puzzle
+
+Clue 18 0
+
+Puzzle
+Puzzle
+
+Puzzle
+Puzzle
+
+Puzzle
+
+
+
+NoClue
+
+Clue 38 4
+
+Puzzle
+Puzzle
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+Clue 13 4
+
+Puzzle
+
+Puzzle
+
+Clue 16 4
+
+Puzzle
+
+Puzzle
+
+
+
+Clue 20 0
+
+Puzzle
+Puzzle
+
+Puzzle
+
+Clue 18 0
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+
+Puzzle
+Clue 6 0
+
+Puzzle
+
+Puzzle
+Puzzle
+
+
+
+Clue 10 0
+
+Puzzle
+
+Puzzle
+Puzzle
+Clue 9 0
+
+Puzzle
+Puzzle
+Clue 3 0
+
+Puzzle
+
+Puzzle
+Clue 8 0
+
+Puzzle
+
+Puzzle
+
+Puzzle

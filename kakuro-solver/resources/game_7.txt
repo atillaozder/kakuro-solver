@@ -1,0 +1,235 @@
+18 12
+
+NoClue
+Clue 0 5
+Clue 0 44
+NoClue
+NoClue
+NoClue
+NoClue
+NoClue
+Clue 0 33
+Clue 0 4
+Clue 0 42
+Clue 0 21
+
+Clue 7 0
+Puzzle
+Puzzle
+NoClue
+Clue 0 7
+Clue 0 14
+NoClue
+Clue 27 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+Clue 12 0
+Puzzle
+Puzzle
+Clue 15 4
+Puzzle
+Puzzle
+Clue 0 3
+Clue 10 17
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+NoClue
+Clue 29 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 16 24
+Puzzle
+Puzzle
+
+NoClue
+Clue 3 5
+Puzzle
+Puzzle
+Clue 0 7
+Clue 24 12
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+NoClue
+
+Clue 13 0
+Puzzle
+Puzzle
+Clue 4 0
+Puzzle
+Puzzle
+Clue 0 12
+Clue 16 0
+Puzzle
+Puzzle
+Puzzle
+NoClue
+
+Clue 8 0
+Puzzle
+Puzzle
+Clue 21 8
+Puzzle
+Puzzle
+Puzzle
+Clue 0 24
+Clue 5 22
+Puzzle
+Puzzle
+Clue 0 10
+
+NoClue
+Clue 14 0
+Puzzle
+Puzzle
+Puzzle
+Clue 36 20
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+NoClue
+Clue 4 0
+Puzzle
+Puzzle
+Clue 29 14
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+
+NoClue
+Clue 0 15
+Clue 0 42
+Clue 3 19
+Puzzle
+Puzzle
+Clue 17 13
+Puzzle
+Puzzle
+Clue 0 8
+Clue 0 44
+NoClue
+
+Clue 40 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 3 23
+Puzzle
+Puzzle
+NoClue
+
+Clue 37 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 24 5
+Puzzle
+Puzzle
+Puzzle
+Clue 0 7
+
+NoClue
+Clue 17 0
+Puzzle
+Puzzle
+Clue 0 34
+Clue 12 0
+Puzzle
+Puzzle
+Puzzle
+Clue 15 0
+Puzzle
+Puzzle
+
+NoClue
+Clue 16 0
+Puzzle
+Puzzle
+Puzzle
+Clue 0 4
+Clue 11 12
+Puzzle
+Puzzle
+Clue 8 11
+Puzzle
+Puzzle
+
+NoClue
+Clue 32 13
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 0 12
+Clue 14 16
+Puzzle
+Puzzle
+NoClue
+
+Clue 8 0
+Puzzle
+Puzzle
+Clue 33 15
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+Clue 0 14
+
+Clue 27 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+NoClue
+Clue 11 0
+Puzzle
+Puzzle
+Clue 9 0
+Puzzle
+Puzzle
+
+Clue 14 0
+Puzzle
+Puzzle
+Puzzle
+Puzzle
+NoClue
+NoClue
+NoClue
+NoClue
+Clue 15 0
+Puzzle
+Puzzle
